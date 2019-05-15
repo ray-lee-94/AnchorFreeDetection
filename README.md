@@ -1,7 +1,7 @@
 # AnchorFreeDetection
 list the paper for recently anchor free detector
 
-### Last updated: 2019/05/12
+### Last updated: 2019/05/15
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Paper list
 
@@ -12,6 +12,7 @@ list the paper for recently anchor free detector
 - |**Fovea**|FoveaBox: Beyond Anchor-based Object Detector|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.03797.pdf) |**1904**|
 - |**CenterNet**| Objects as Points|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.07850.pdf) |**1904**|
 - |**ExtremeNet**|Bottom-up Object Detection by Grouping Extreme and Center Points|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1901.08043.pdf) |**1901**| 
+- |**DuBox**|DuBox: No-Prior Box Objection Detection via Residual Dual Scale Detectors|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.06883.pdf) |**1904**|
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Code Resource
