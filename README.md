@@ -13,6 +13,7 @@ list the paper for recently anchor free detector
 - |**Fovea**|FoveaBox: Beyond Anchor-based Object Detector|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.03797.pdf) |**1904**|
 - |**CenterNet**| Objects as Points|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.07850.pdf) |**1904**| 
 - |**DuBox**|DuBox: No-Prior Box Objection Detection via Residual Dual Scale Detectors|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.06883.pdf) |**1904**|
+- |**RepPoints**|RepPoints: Point Set Representation for Object Detection|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.11490.pdf) |**1904**|
 
 ### Pre-study before 2019
 - |**YOLO**|You Only Look Once:Unified, Real-Time Object Detection|**[arXiv' 15]**||[`[pdf]`](https://arxiv.org/pdf/1506.02640.pdf) |**1506**|
