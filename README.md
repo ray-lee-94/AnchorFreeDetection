@@ -14,6 +14,7 @@ list the paper for recently anchor free detector
 - |**CenterNet**| Objects as Points|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.07850.pdf) |**1904**| 
 - |**DuBox**|DuBox: No-Prior Box Objection Detection via Residual Dual Scale Detectors|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.06883.pdf) |**1904**|
 - |**RepPoints**|RepPoints: Point Set Representation for Object Detection|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.11490.pdf) |**1904**|
+- |**FSAF**|Feature Selective Anchor-Free Module for Single-Shot Object Detection|**[arXiv' 19]**|[`[pdf]`](https://arxiv.org/pdf/1903.00621.pdf)|**1903**|
 
 ### Pre-study before 2019
 - |**YOLO**|You Only Look Once:Unified, Real-Time Object Detection|**[arXiv' 15]**||[`[pdf]`](https://arxiv.org/pdf/1506.02640.pdf) |**1506**|
