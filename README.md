@@ -1,7 +1,7 @@
 # AnchorFreeDetection
 list the paper for recently anchor free detector
 
-### Last updated: 2019/11/19
+### Last updated: 2020/8/7
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Paper list
@@ -21,7 +21,7 @@ list the paper for recently anchor free detector
 - |**Matrix Nets**|Matrix Nets: A New Deep Architecture for Object Detection|**[arXiv'19]**||[`[pdf]`](https://arxiv.org/pdf/1908.04646.pdf)|**1908**| 
 - |**AFP-Nets**|AFP-Nets: Realtime Anchor-Free Polyp Detection in Colonoscopy|**[arXiv'19]**||[`[pdf]`](https://arxiv.org/pdf/1909.02477.pdf)|**1909**| 
 - |**AFO-TAD**|AFO-TAD: Anchor-free One-Stage Detection for Temporal Action Detection **[arXiv'19]** [`[pdf]`]( https://arxiv.org/pdf/1910.08250.pdf )|**1910**|
-
+- |**CircleNet**| CircleNet: Anchor-free Detection with Circle Representation **[arXiv'20]** [`[pdf]`](https://arxiv.org/pdf/2006.02474.pdf) |**2006**||
 
 
 ### Pre-study before 2019
