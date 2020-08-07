@@ -6,6 +6,10 @@ list the paper for recently anchor free detector
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Paper list
 
+### 2020
+- |**CircleNet**| CircleNet: Anchor-free Detection with Circle Representation **[arXiv'20]** [`[pdf]`](https://arxiv.org/pdf/2006.02474.pdf) |**2006**||
+
+### 2019
 - |**CornerNet**|CornerNet: Keypoint Triplets for Object Detection |**[arXiv' 18]**| [`[pdf]`](https://arxiv.org/pdf/1808.01244.pdf) |**1808**| 
 - |**ExtremeNet**|Bottom-up Object Detection by Grouping Extreme and Center Points|**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1901.08043.pdf) |**1901**| 
 - |**CornerNet-Lite**| CornerNet-Lite: Efficient Keypoint Based Object Detection |**[arXiv' 19]**||[`[pdf]`](https://arxiv.org/pdf/1904.08900.pdf) |**1904**|
@@ -21,7 +25,6 @@ list the paper for recently anchor free detector
 - |**Matrix Nets**|Matrix Nets: A New Deep Architecture for Object Detection|**[arXiv'19]**||[`[pdf]`](https://arxiv.org/pdf/1908.04646.pdf)|**1908**| 
 - |**AFP-Nets**|AFP-Nets: Realtime Anchor-Free Polyp Detection in Colonoscopy|**[arXiv'19]**||[`[pdf]`](https://arxiv.org/pdf/1909.02477.pdf)|**1909**| 
 - |**AFO-TAD**|AFO-TAD: Anchor-free One-Stage Detection for Temporal Action Detection **[arXiv'19]** [`[pdf]`]( https://arxiv.org/pdf/1910.08250.pdf )|**1910**|
-- |**CircleNet**| CircleNet: Anchor-free Detection with Circle Representation **[arXiv'20]** [`[pdf]`](https://arxiv.org/pdf/2006.02474.pdf) |**2006**||
 
 
 ### Pre-study before 2019
